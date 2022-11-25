@@ -1,0 +1,4 @@
+﻿  ask2.cpp
+c:\users\george\desktop\assignement2_3918\ask2\ask2\ask2.cpp(9): warning C4018: '<=': signed/unsigned mismatch
+c:\users\george\desktop\assignement2_3918\ask2\ask2\ask2.cpp(21): warning C4715: 'isPalindrome': not all control paths return a value
+  ask2.vcxproj -> C:\Users\George\Desktop\Assignement2_3918\ask2\Debug\ask2.exe

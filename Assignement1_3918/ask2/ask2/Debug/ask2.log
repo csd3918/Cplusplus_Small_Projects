@@ -1,0 +1,4 @@
+﻿  ask2.cpp
+c:\users\george\desktop\assignement1_3918\ask2\ask2\ask2.cpp(52): warning C4101: 'd1': unreferenced local variable
+c:\users\george\desktop\assignement1_3918\ask2\ask2\ask2.cpp(56): warning C4101: 'f1': unreferenced local variable
+  ask2.vcxproj -> C:\Users\George\Desktop\Assignement1_3918\ask2\Debug\ask2.exe

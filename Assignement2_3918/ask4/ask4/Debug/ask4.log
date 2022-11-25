@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ask4.cpp
+c:\users\george\desktop\assignement2_3918\ask4\ask4\pch.h(27): warning C4172: returning address of local variable or temporary: result
+c:\users\george\desktop\assignement2_3918\ask4\ask4\pch.h(44): warning C4172: returning address of local variable or temporary: result
+c:\users\george\desktop\assignement2_3918\ask4\ask4\pch.h(52): warning C4172: returning address of local variable or temporary: result
+c:\users\george\desktop\assignement2_3918\ask4\ask4\pch.h(36): warning C4172: returning address of local variable or temporary: result
+c:\users\george\desktop\assignement2_3918\ask4\ask4\pch.h(66): warning C4172: returning address of local variable or temporary: result
+  ask4.vcxproj -> C:\Users\George\Desktop\Assignement2_3918\ask4\Debug\ask4.exe

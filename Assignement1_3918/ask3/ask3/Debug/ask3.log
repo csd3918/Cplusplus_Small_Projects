@@ -1,0 +1,4 @@
+﻿  ask3.cpp
+c:\users\george\desktop\assignement1_3918\ask3\ask3\ask3.cpp(104): warning C4101: 'c1': unreferenced local variable
+c:\users\george\desktop\assignement1_3918\ask3\ask3\ask3.cpp(109): warning C4101: 'int1': unreferenced local variable
+  ask3.vcxproj -> C:\Users\George\Desktop\Assignement1_3918\ask3\Debug\ask3.exe

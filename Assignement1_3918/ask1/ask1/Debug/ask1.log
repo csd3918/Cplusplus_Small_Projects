@@ -1,0 +1,4 @@
+﻿  ask1.cpp
+c:\users\george\desktop\assignement1_3918\ask1\ask1\ask1.cpp(30): warning C4101: 'y': unreferenced local variable
+c:\users\george\desktop\assignement1_3918\ask1\ask1\ask1.cpp(34): warning C4101: 'w': unreferenced local variable
+  ask1.vcxproj -> C:\Users\George\Desktop\Assignement1_3918\ask1\Debug\ask1.exe
