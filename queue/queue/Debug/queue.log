@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  queue.cpp
+c:\users\george\desktop\c++ assignements\queue\queue\queue.cpp(52): warning C4018: '<=': signed/unsigned mismatch
+  queue.vcxproj -> C:\Users\George\Desktop\C++ assignements\queue\Debug\queue.exe

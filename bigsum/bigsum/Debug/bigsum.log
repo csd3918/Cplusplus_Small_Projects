@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\george\desktop\c++ assignements\bigsum\bigsum\source.cpp(14): warning C4715: 'syngrisi': not all control paths return a value
+  bigsum.vcxproj -> C:\Users\George\Desktop\C++ assignements\bigsum\Debug\bigsum.exe
